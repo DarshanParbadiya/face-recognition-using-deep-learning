@@ -1,7 +1,5 @@
 # Employee Attendance Management System (EAMS)
 
-Check out the [Employee Attendance Management System Demo](https://drive.google.com/file/d/1LThgcoFSFBLuGiwOnPBBMUoJUyHEPH69/view?usp=sharing) to see how the system efficiently manages attendance using advanced IoT and facial recognition technology.
-
 ![image](https://github.com/user-attachments/assets/8f717713-06a3-490c-8a80-da19b2dce587)
 
 ![image](https://github.com/user-attachments/assets/64bd328b-d7a2-47e3-84bd-98ff395fda99)
